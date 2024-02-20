@@ -1,7 +1,7 @@
 Hi 👋 My name is Sachin Soni
 ================================
 
-Data Analyst - Level II 
+Sr Software Engineer - Power BI 
 ------------------------------
 
 
